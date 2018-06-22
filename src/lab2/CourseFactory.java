@@ -26,8 +26,6 @@ public class CourseFactory {
 //    public Course getCourse(String number) {
 //        // TODO, please use foreach instead of normal for loop
 //    }
-//
-//    private static CourseFactory instance;
-//    private static Course[] allCourses;
+
 
 }
